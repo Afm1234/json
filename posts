@@ -1,4 +1,4 @@
-fetch('https://jsonplaceholder.typicode.com/posts', {
+fetch('https://github.com/Afm123/json/posts', {
     method: 'POST',
     body: JSON.stringify({
       title: 'foo',
