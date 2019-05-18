@@ -1,4 +1,4 @@
-fetch('https://github.com/Afm123/json/posts', {
+fetch('https://github.com/Afm1234/json/posts', {
     method: 'POST',
     body: JSON.stringify({
       title: 'foo',
